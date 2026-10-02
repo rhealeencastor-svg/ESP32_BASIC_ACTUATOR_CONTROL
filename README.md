@@ -191,20 +191,17 @@ The `nSLEEP` pin is controlled by GPIO27 and is set HIGH after the driver wake-u
 
 ### Circuit Setup
 
-[Insert image here]
 
 ### ESP32 and Driver Connections
 
-[Insert image here]
+
 
 ### Motor Connection
 
-[Insert image here]
 
 ### Push Button Connection
 
-[Insert image here]
 
 ### Hardware Testing
 
-[Insert image here]
+
